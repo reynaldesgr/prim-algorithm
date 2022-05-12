@@ -1,1 +1,1 @@
-# prim-algorithm
+# ``Prim Algorithm``
